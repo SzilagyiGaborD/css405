@@ -33,11 +33,17 @@ A h1 elem számára állítson be középre igazított tartalmat.
 Az aside elem számára állítson be 95 pixeles szélességet és magasságot.
 
 Az aside tartalmának fontmérete legyen 14 pixel.
+
 Az aside háttérszíne legyen fehér.
+
 Az aside számára állítson be 10 pixeles belső margót.
+
 Az aside elemet lebegtesse balra.
+
 Az aside elemnek állítson be 10 pixeles jobboldali margót.
+
 Az aside elem jobb szélén állítson be szegélyt, ami 6 pixel széles, solid típus és a színe goldenrod.
+
 Az utolsó bekezdés harmadik szavátnak, ami „dolor” állítson be félkövér fontot CSS-el. Ha szükséges szerkessze a HTML fájlt.
 
 ---------------------------------
