@@ -1,7 +1,7 @@
 # css405
 
 <br/>
-![minta_0405](minta_0405.png)
+![minta0405](minta_0405.png)
 
 A feladatsor Sallai András munkája alapján készült
 
