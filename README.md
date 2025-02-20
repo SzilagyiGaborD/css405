@@ -3,6 +3,8 @@
 <br/>
 ![minta0405](minta_0405.png)
 <br/>
+
+
 A feladatsor Sallai András munkája alapján készült
 
 https://szit.hu/doku.php?id=oktatas:web:feladatok:css
