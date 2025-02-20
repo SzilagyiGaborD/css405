@@ -6,7 +6,7 @@ https://szit.hu/doku.php?id=oktatas:web:feladatok:css
 
 Szerző: Szilágyi Gábor Dániel
 -------------------------------
-1. A fájl neve legyen Index.html
+1. A fájl neve legyen index.html
 
 2. Vegyen fel egy div elemet, jelölje .container osztállyal.
 
