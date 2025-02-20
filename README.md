@@ -1,5 +1,8 @@
 # css405
 
+<br/>
+![minta_0405.png](minta_0405.png)
+
 A feladatsor Sallai András munkája alapján készült
 
 https://szit.hu/doku.php?id=oktatas:web:feladatok:css
